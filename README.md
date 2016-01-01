@@ -1,5 +1,7 @@
 # gmailr #
 
+[![Join the chat at https://gitter.im/kazuya030/gmailr](https://badges.gitter.im/kazuya030/gmailr.svg)](https://gitter.im/kazuya030/gmailr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/jimhester/gmailr.png?branch=master)](https://travis-ci.org/jimhester/gmailr)
 [![Coverage Status](https://img.shields.io/coveralls/jimhester/gmailr.svg)](https://coveralls.io/r/jimhester/gmailr)
 
